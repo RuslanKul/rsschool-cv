@@ -16,6 +16,8 @@
 * CSS
 *GIT
 ## *Code Example:*
+
+```html
 <div id="heder">
         <h1>Руслан Кулиев</h1>
         <img src="" alt="">
@@ -29,5 +31,6 @@
         </p>
         <p>Решил начать свой путь в сфере IT. Проходил курсы на учебных сайтах Hexlet и HTML Academy.</p>
     </div>
-    
+```
+
 ## *Languages:* Native Russian, Intermediate English
