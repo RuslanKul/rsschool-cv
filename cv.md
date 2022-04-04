@@ -16,4 +16,18 @@
 * CSS
 *GIT
 ## *Code Example:*
+<div id="heder">
+        <h1>Руслан Кулиев</h1>
+        <img src="" alt="">
+        <h2>О себе</h2>
+        <p> 
+            <ul>
+                <li>Мне 28 лет</li>
+                <li>Я работаю в сфере логистики уже 6 лет.</li>
+                <li>Я хочу сменить профессию и научиться писать код.</li>
+            </ul>
+        </p>
+        <p>Решил начать свой путь в сфере IT. Проходил курсы на учебных сайтах Hexlet и HTML Academy.</p>
+    </div>
+    
 ## *Languages:* Native Russian, Intermediate English
